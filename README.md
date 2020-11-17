@@ -1,4 +1,5 @@
 # Tutree_question
+I have solved the following questions.
 Q1.  Write a program in C++ to print the following pattern
  1 2 3 4 5 6 7
  2 3 4 5 6 7
